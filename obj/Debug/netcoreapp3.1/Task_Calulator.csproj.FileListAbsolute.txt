@@ -1,0 +1,13 @@
+C:\Users\Matlogin\Documents\WT_section2\Task_Calulator\Task_Calulator\bin\Debug\netcoreapp3.1\Task_Calulator.exe
+C:\Users\Matlogin\Documents\WT_section2\Task_Calulator\Task_Calulator\bin\Debug\netcoreapp3.1\Task_Calulator.deps.json
+C:\Users\Matlogin\Documents\WT_section2\Task_Calulator\Task_Calulator\bin\Debug\netcoreapp3.1\Task_Calulator.runtimeconfig.json
+C:\Users\Matlogin\Documents\WT_section2\Task_Calulator\Task_Calulator\bin\Debug\netcoreapp3.1\Task_Calulator.runtimeconfig.dev.json
+C:\Users\Matlogin\Documents\WT_section2\Task_Calulator\Task_Calulator\bin\Debug\netcoreapp3.1\Task_Calulator.dll
+C:\Users\Matlogin\Documents\WT_section2\Task_Calulator\Task_Calulator\bin\Debug\netcoreapp3.1\Task_Calulator.pdb
+C:\Users\Matlogin\Documents\WT_section2\Task_Calulator\Task_Calulator\obj\Debug\netcoreapp3.1\Task_Calulator.csproj.AssemblyReference.cache
+C:\Users\Matlogin\Documents\WT_section2\Task_Calulator\Task_Calulator\obj\Debug\netcoreapp3.1\Task_Calulator.AssemblyInfoInputs.cache
+C:\Users\Matlogin\Documents\WT_section2\Task_Calulator\Task_Calulator\obj\Debug\netcoreapp3.1\Task_Calulator.AssemblyInfo.cs
+C:\Users\Matlogin\Documents\WT_section2\Task_Calulator\Task_Calulator\obj\Debug\netcoreapp3.1\Task_Calulator.csproj.CoreCompileInputs.cache
+C:\Users\Matlogin\Documents\WT_section2\Task_Calulator\Task_Calulator\obj\Debug\netcoreapp3.1\Task_Calulator.dll
+C:\Users\Matlogin\Documents\WT_section2\Task_Calulator\Task_Calulator\obj\Debug\netcoreapp3.1\Task_Calulator.pdb
+C:\Users\Matlogin\Documents\WT_section2\Task_Calulator\Task_Calulator\obj\Debug\netcoreapp3.1\Task_Calulator.genruntimeconfig.cache
